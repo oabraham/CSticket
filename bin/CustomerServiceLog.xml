@@ -1,0 +1,1581 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CustomerServiceLog
+</name>
+</assembly>
+<members>
+<member name="F:CustomerServiceLog.Login._RegisterHyperLink">
+<summary>
+RegisterHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Login._OpenAuthLogin">
+<summary>
+OpenAuthLogin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Manage._successMessage">
+<summary>
+successMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Manage._setPassword">
+<summary>
+setPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Manage._password">
+<summary>
+password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Manage._confirmPassword">
+<summary>
+confirmPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Manage._changePassword">
+<summary>
+changePassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.OpenAuthProviders._providerDetails">
+<summary>
+providerDetails control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Register._RegisterUser">
+<summary>
+RegisterUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Register._RegisterUserWizardStep">
+<summary>
+RegisterUserWizardStep control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.RegisterExternalLogin._userNameForm">
+<summary>
+userNameForm control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.RegisterExternalLogin._userName">
+<summary>
+userName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._mainUpdatePanel">
+<summary>
+mainUpdatePanel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblCustomerName">
+<summary>
+lblCustomerName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._ddlCustomerName">
+<summary>
+ddlCustomerName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator1">
+<summary>
+RequiredFieldValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblCustomerID">
+<summary>
+lblCustomerID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtCustomerID">
+<summary>
+txtCustomerID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator2">
+<summary>
+RequiredFieldValidator2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblOtherCustomer">
+<summary>
+lblOtherCustomer control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtOtherCustomerID">
+<summary>
+txtOtherCustomerID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator5">
+<summary>
+RequiredFieldValidator5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblContact">
+<summary>
+lblContact control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._ddlContact">
+<summary>
+ddlContact control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator6">
+<summary>
+RequiredFieldValidator6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblEmailClient">
+<summary>
+lblEmailClient control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtEmailClient">
+<summary>
+txtEmailClient control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblOtherContact">
+<summary>
+lblOtherContact control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtOtherContact">
+<summary>
+txtOtherContact control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator7">
+<summary>
+RequiredFieldValidator7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblManager">
+<summary>
+lblManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtManager">
+<summary>
+txtManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator3">
+<summary>
+RequiredFieldValidator3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblManagerEmail">
+<summary>
+lblManagerEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtManagerEmail">
+<summary>
+txtManagerEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator4">
+<summary>
+RequiredFieldValidator4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblTransfer">
+<summary>
+lblTransfer control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._ddlTransfer">
+<summary>
+ddlTransfer control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator8">
+<summary>
+RequiredFieldValidator8 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblOsiEmail">
+<summary>
+lblOsiEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtOsiEmail">
+<summary>
+txtOsiEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator15">
+<summary>
+RequiredFieldValidator15 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblDepart">
+<summary>
+lblDepart control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._ddlDepart">
+<summary>
+ddlDepart control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator14">
+<summary>
+RequiredFieldValidator14 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblReason">
+<summary>
+lblReason control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtReason">
+<summary>
+txtReason control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator10">
+<summary>
+RequiredFieldValidator10 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblIssueCat">
+<summary>
+lblIssueCat control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._ddlIssueCat">
+<summary>
+ddlIssueCat control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator12">
+<summary>
+RequiredFieldValidator12 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblCategory">
+<summary>
+lblCategory control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._ddlCategory">
+<summary>
+ddlCategory control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator11">
+<summary>
+RequiredFieldValidator11 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblSolution">
+<summary>
+lblSolution control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtSolution">
+<summary>
+txtSolution control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidator13">
+<summary>
+RequiredFieldValidator13 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblNotifyEmail">
+<summary>
+lblNotifyEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtNotifyEmail">
+<summary>
+txtNotifyEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RegularExpressionValidator1">
+<summary>
+RegularExpressionValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._startTime">
+<summary>
+startTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._currentTaskID">
+<summary>
+currentTaskID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._currentCallID">
+<summary>
+currentCallID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lnklog">
+<summary>
+lnklog control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._rdBtnTaskLst">
+<summary>
+rdBtnTaskLst control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._divNewTask">
+<summary>
+divNewTask control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblRequested">
+<summary>
+lblRequested control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._ddlRequested">
+<summary>
+ddlRequested control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblAssignedTo">
+<summary>
+lblAssignedTo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._ddlAssignedTo">
+<summary>
+ddlAssignedTo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblDateRequested">
+<summary>
+lblDateRequested control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtDateRequested">
+<summary>
+txtDateRequested control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidatorDateRequested">
+<summary>
+RequiredFieldValidatorDateRequested control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblDescription">
+<summary>
+lblDescription control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtDescription">
+<summary>
+txtDescription control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidatortaskdescription">
+<summary>
+RequiredFieldValidatortaskdescription control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblInvalidTaskDates">
+<summary>
+lblInvalidTaskDates control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblServiceBy">
+<summary>
+lblServiceBy control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._ddlServiceby">
+<summary>
+ddlServiceby control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblStatus">
+<summary>
+lblStatus control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._ddlStatus">
+<summary>
+ddlStatus control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblDueDate">
+<summary>
+lblDueDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtDueDate">
+<summary>
+txtDueDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidatorDueDate">
+<summary>
+RequiredFieldValidatorDueDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblDateComplete">
+<summary>
+lblDateComplete control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtDateComplete">
+<summary>
+txtDateComplete control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblTimeExpend">
+<summary>
+lblTimeExpend control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtTimeExpend">
+<summary>
+txtTimeExpend control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidatorTime">
+<summary>
+RequiredFieldValidatorTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RangeValidator1">
+<summary>
+RangeValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblComments">
+<summary>
+lblComments control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._txtComments">
+<summary>
+txtComments control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._RequiredFieldValidatorComments">
+<summary>
+RequiredFieldValidatorComments control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._chkLstEmails">
+<summary>
+chkLstEmails control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblCompletedEmail">
+<summary>
+lblCompletedEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblShowNoCustomerServIncTask">
+<summary>
+lblShowNoCustomerServIncTask control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblShowInvalidCompleteDate">
+<summary>
+lblShowInvalidCompleteDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblDateCompletedSetWithNostatus">
+<summary>
+lblDateCompletedSetWithNostatus control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblCouldnotInsertDetail">
+<summary>
+lblCouldnotInsertDetail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog._Default._lblCouldnotInsertTask">
+<summary>
+lblCouldnotInsertTask control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Log._txtCompID">
+<summary>
+txtCompID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Log._lblExport">
+<summary>
+lblExport control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Log._grdLog">
+<summary>
+grdLog control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Log._tblsrvcallLogDS">
+<summary>
+tblsrvcallLogDS control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Log._hidCompID">
+<summary>
+hidCompID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="T:CustomerServiceLog.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:CustomerServiceLog.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:CustomerServiceLog.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:CustomerServiceLog.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:CustomerServiceLog.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:CustomerServiceLog.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="T:CustomerServiceLog.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CustomerServiceLog.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CustomerServiceLog.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:CustomerServiceLog.setup._GridView1">
+<summary>
+GridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.setup._tblsrvissuecategoryDS">
+<summary>
+tblsrvissuecategoryDS control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.setup._btnInsertRowLinkButton">
+<summary>
+btnInsertRowLinkButton control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.setup._lblnewcatname">
+<summary>
+lblnewcatname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.setup._txtNewCatname">
+<summary>
+txtNewCatname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.setup._RequiredFieldValidator15">
+<summary>
+RequiredFieldValidator15 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.setup._lblnewdesc">
+<summary>
+lblnewdesc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.setup._txtnewCatDesc">
+<summary>
+txtnewCatDesc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.setup._RequiredFieldValidator1">
+<summary>
+RequiredFieldValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.setup._btnSave">
+<summary>
+btnSave control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.SiteMaster._HeadContent">
+<summary>
+HeadContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.SiteMaster._FeaturedContent">
+<summary>
+FeaturedContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.SiteMaster._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGsUserPermissionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSCompInfoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetup1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetup2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetup3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblPaDepartmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblSrvIssueCategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblOSITaskCategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblSrvCallLogDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblSrvCallLog1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblSrvAssistantsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.TblOsiTaskRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.TblOsiTaskDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.TblOsiTaskDetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetup4DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGsUserPermissionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSCompInfoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetup1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetup2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetup3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblPaDepartmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblSrvIssueCategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblOSITaskCategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblSrvCallLogRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblSrvCallLog1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblSrvAssistantsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.TblOsiTaskRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.TblOsiTaskRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.TblOsiTaskDetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetup4Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGsUserPermissionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSCompInfoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetup1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetup2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetup3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblPaDepartmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblSrvIssueCategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblOSITaskCategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblSrvCallLogRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblSrvCallLog1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblSrvAssistantsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.TblOsiTaskRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.TblOsiTaskRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.TblOsiTaskDetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_local.tblGSUserSetup4RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblGSUserSetupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblGsUserPermissionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblGSCompInfoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblGSUserSetup1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblGSUserSetup2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.DataTable1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblGSUserSetup3TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblPaDepartmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblSrvIssueCategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblOSITaskCategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblSrvCallLogTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblSrvCallLog1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblSrvAssistantsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.TblOsiTaskRequestTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.TblOsiTaskTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.TblOsiTaskDetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.tblGSUserSetup4TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CustomerServiceLog.sqlserver_localTableAdapters.TableAdapterManager.UpdateUpdatedRows(CustomerServiceLog.sqlserver_local,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CustomerServiceLog.sqlserver_localTableAdapters.TableAdapterManager.UpdateInsertedRows(CustomerServiceLog.sqlserver_local,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CustomerServiceLog.sqlserver_localTableAdapters.TableAdapterManager.UpdateDeletedRows(CustomerServiceLog.sqlserver_local,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CustomerServiceLog.sqlserver_localTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CustomerServiceLog.sqlserver_localTableAdapters.TableAdapterManager.UpdateAll(CustomerServiceLog.sqlserver_local)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CustomerServiceLog.sqlserver_localTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="F:CustomerServiceLog.Site_Mobile._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Site_Mobile._HeadContent">
+<summary>
+HeadContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Site_Mobile._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Site_Mobile._FeaturedContent">
+<summary>
+FeaturedContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Site_Mobile._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CustomerServiceLog.Site_Mobile._ViewSwitcher1">
+<summary>
+ViewSwitcher1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
